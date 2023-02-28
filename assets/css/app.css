@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-size: large;
+    text-align: center;
+    font-size: 200%;
+}
+
+button{
+    color: blue;
+}
+
+p{
+    color: hsl(271, 76%, 53%);
+}
